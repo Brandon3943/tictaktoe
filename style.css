@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+}
+
+.wholeGame {
+    text-align: center;
+}
+
+.board {
+    border: 4px solid #fff;
+}
+
+.score {
+    color: #fff;
+    font-size: 40px;
+}
+
+.button {
+    border: 2px solid #fff;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+    font-size: 30px;
+
+}
